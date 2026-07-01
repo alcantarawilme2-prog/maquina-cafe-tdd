@@ -35,6 +35,6 @@ MaquinaCafeTDD/
 | TC-08 | Stock agotado impide dispensar la bebida |
 
 ## Cómo ejecutar el proyecto
-1. Abrir `MaquinaCafeTDD.sln` en Visual Studio 2022
+1. Abrir `MaquinaCafeTDD.sln` en Visual Studio 
 2. Ir a **Prueba → Ejecutar todas las pruebas**
 3. Verificar que los 8 tests aparecen en verde en el Explorador de pruebas

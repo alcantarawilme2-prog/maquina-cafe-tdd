@@ -46,3 +46,6 @@ public class MaquinaCafe
 
     public Dictionary<string, Bebida> ObtenerMenu() => _menu;
 }
+ 
+
+// Feature de prueba - Anthony
